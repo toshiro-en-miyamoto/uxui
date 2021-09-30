@@ -52,3 +52,18 @@ To build the User Environment Design, review the storyboards one at time, asking
 Each storyboard is woven into the evolving User Environment Design one cell at a time. Since the storyboards were designed individually, they may envision similar or overlapping places in the product. As the team walks through the storyboard, they determine whether a cell is envisioning a new place or can reuse an existing place, extending it as necessary. The process is exactly the same when weaving in the next storyboard &mdash; some places will already exist as Focus Areas in the product, whereas others will be newly defined. The User Environment Design will evolve to support them all.
 
 Resist defining the user interface until you see what is needed in each place in the product.
+
+## Seeing structure: classic errors
+
+**Exposing the database** is still a problem in too many products. (In fact, frameworks such as Ruby on Rails positively encourage putting the database in the user interface.) Instead of understanding the practice and creating a product structure to support it, product designers simply put the data tables and relationships on the screen, one table per Focus Area, requiring the user to learn and traverse the database schema. Users don’t want to understand your database &mdash; they want to focus on their activities. And a hierarchical structure is prone to becoming hallways &mdash; a series of Focus Areas, each of which fulfills no real intent except to get to the next place.
+
+![Fig.14-8a Hierarchal Menus](./fig14-8a.jpg)
+
+**One Central Place** forces the user back and forth to a central place before going on to the next intent. One Focus Area becomes the central hub, whether or not it supports any real intent or needs to be in the center of the activity. What is the next likely thing a user wants to do after completing a step? Your user data will tell you. Provide function that lets the user get there without interrupting their flow of thought
+
+![Fig.14-8b One Central Place](./fig14-8b.jpg)
+
+**Legginess** forces the user to traverse many places to get to the Focus Area they need. Shopping sites that move from category to category are often too leggy. Wizards can lock the user into too many steps—and are often unnecessary with proper design. Or designers, with the best of intentions, use scenario-based design and gave each task step its own Focus Area. Hierarchies can become a set of leggy hallways. Bring what the user needs into the place—don’t drive them through a set of links.
+
+![Fig.14-8c Legginess](./fig14-8c.jpg)
+
