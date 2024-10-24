@@ -22,3 +22,30 @@ A UX designer might use a storyboard for:
 - Visualizing user research. Storyboards are easier to understand than long user research reports. Digital storyboards also give stakeholders a simple format to review and share feedback.
 - Handoff. UX storyboards help developers and other team members understand the user’s journey from their perspective. They also add context to wireframes and mockups design choices.
 
+## Product design vs. UX design
+
+[Product design](https://www.figma.com/resource-library/what-is-product-design/): Focuses on the **strategy** and **direction** of a produce, ensuring vision, goals, and features align with the target audience, including:
+
+- competitive analysis;
+- detailed road-mapping;
+- feature prioritization;
+- market research.
+
+Product design also can be characterized as follows:
+
+- **Broad context**. Product designers work at the intersection of business strategy, project management, and user-centric design, ensuring the product aligns with both user needs and business goals.
+- **Greater sway**. Product designers help shape the product roadmap, making decisions that prioritize features and functionality that maximize ROI.
+- **Long-term vision**. Product design supports long-term business goals and overall company strategy. Companies like Atlassian and Spotify focus on scalability in their designs, using tools like variables to maintain consistency as they grow.
+
+UX design: Focuses on the **user experience** within a product, creating user-friendly interfaces and pleasant interactions, including:
+
+- comprehensive user research;
+- UI organization and labeling;
+- useability testing and feedback;
+- wireframing and prototyping.
+
+UX design also can be characterized as follows:
+
+- **Short-term focus**. UX designers often zero in on improving specific features or flows within a current sprint, prioritizing immediate improvements to user experience.
+- **Narrower scope**. The UX design process is centered on creating a seamless and intuitive user experience with less emphasis on the broader business context.
+- **Less influence**. UX designers focus on understanding and representing the needs of the end user, relying heavily on research and testing to inform their designs.
