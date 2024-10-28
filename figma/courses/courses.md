@@ -3,7 +3,7 @@
 - [Digital Design basics](https://www.figma.com/resource-library/design-basics/) by Figma
   - [Getting started in design](https://www.figma.com/resource-library/getting-started-in-design/) (2024/10/16 - 2024/10/22, 4.5 hours)
   - [What is product design](https://www.figma.com/resource-library/what-is-product-design/) (2024-10-24, 1 hour)
-  - [What is UI design](https://www.figma.com/resource-library/what-is-ui-design/) (2024-10-25)
+  - [What is UI design](https://www.figma.com/resource-library/what-is-ui-design/) (2024-10-28)
 
 ## Digital Design basic by Figma
 
@@ -29,4 +29,7 @@
 
 ### What is UI design?
 
-- What is UI design? (2024-10-25)
+- What is UI design? (2024-10-28, 30 mins)
+- What is visual hierarchy (2024-10-28, 30 min)
+- Five essential UI design principles (2024-10-28, 30min)
+- What is the difference between UI and UX ()
