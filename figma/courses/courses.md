@@ -31,5 +31,5 @@
 
 - What is UI design? (2024-10-28, 30 mins)
 - What is visual hierarchy (2024-10-28, 30 min)
-- Five essential UI design principles (2024-10-28, 30min)
-- What is the difference between UI and UX ()
+- [Five essential UI design principles](https://www.figma.com/resource-library/ui-design-principles/) (2024-10-28, 30min)
+- What is the difference between UI and UX

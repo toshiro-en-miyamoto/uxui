@@ -49,3 +49,14 @@ UX design also can be characterized as follows:
 - **Short-term focus**. UX designers often zero in on improving specific features or flows within a current sprint, prioritizing immediate improvements to user experience.
 - **Narrower scope**. The UX design process is centered on creating a seamless and intuitive user experience with less emphasis on the broader business context.
 - **Less influence**. UX designers focus on understanding and representing the needs of the end user, relying heavily on research and testing to inform their designs.
+
+## Five UI design principles
+
+In digital design, [UI design principles](https://www.figma.com/resource-library/ui-design-principles/) are the overarching guidance designers rely on to create designs that serve and delight users.
+
+1. Hierarchy
+2. Progressive disclosure
+3. Consistency
+4. Contrast
+5. Proximity
+
