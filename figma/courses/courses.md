@@ -41,4 +41,8 @@ Figma resources:
 - Constraints in design (2024-10-31, 30 min)
 - Typography in design (2024-10-31, 15 min)
 
+### Prototyping
 
+- What is prototyping (2024-11-04, 30 min)
+- What is a minimum viable product MVP (2024-11-04, 30 min)
+- What is rapid prototyping (2024-11-04, 30 min)
