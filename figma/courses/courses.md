@@ -7,6 +7,7 @@ Figma resources:
   - [What is product design](https://www.figma.com/resource-library/what-is-product-design/) (2024-10-24, 1 hour)
 - [UI design](https://www.figma.com/resource-library/ui-design/)
 - [Prototyping](https://www.figma.com/resource-library/prototyping/)
+- [The Figma prototype challenge: 15 tips in 15 days](https://www.figma.com/blog/the-figma-prototype-challenge/)
 
 ## Figma resources
 
@@ -46,3 +47,27 @@ Figma resources:
 - What is prototyping (2024-11-04, 30 min)
 - What is a minimum viable product MVP (2024-11-04, 30 min)
 - What is rapid prototyping (2024-11-04, 30 min)
+- Low-fidelity prototyping: What is it and how can it help? (2024-11-05, 30 min)
+- What is high-fidelity prototyping, and how can it help? (2024-11-06)
+
+### The Figma prototype challenge: 15 tips in 15 days
+
+- Week 1
+  - Day 01: smart animate
+  - Day 02: preset transitions (slide, push, etc.)
+  - Day 03: interactive components (links between ICs)
+  - Day 04: nest ICs
+  - Day 05: a mobile prototype with an interactive navigation
+- Week 2
+  - Day 06: ICs with auto layout carousel
+  - Day 07: dynamic scroll effect
+  - Day 08: drag-to-delete interaction
+  - Day 09: a cyclic animation
+  - Day 10: parallax effects
+- Week 3
+  - Day 11: Figma's scroll to feature
+  - Day 12: a map zoom-in/out effect
+  - Day 13: tooltips on hovered-over
+  - Day 14: a high-fidelity map prototype
+  - Day 15: Kirby waving
+
